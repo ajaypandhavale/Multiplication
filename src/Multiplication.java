@@ -16,6 +16,9 @@ public class Multiplication {
 		
 		System.out.println(" HAVE FUN ");
 		
+		System.out.println(" modifying code using modifi branch of the code ");
+		
+		System.out.println(" again trying to modify code using modifi branch of the code ");
 
 	}
 
